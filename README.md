@@ -26,29 +26,31 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 - **KPIs**: Easy-to-read cards displaying import KPIs like transactions, orders, revenue, COGS, and profit for rapi decision-making.
 
   
-![unnamed-4](https://github.com/user-attachments/assets/2a548aef-da4a-4b2c-8456-f73466d42f53)
+  ![unnamed-4](https://github.com/user-attachments/assets/2a548aef-da4a-4b2c-8456-f73466d42f53)
 
 
 - **Transaction Analysis**: Monthly and quarterly transaction trends.
 
-![unnamed-8](https://github.com/user-attachments/assets/a1511c06-27d2-456c-9c10-129030af121d)
+  ![unnamed-8](https://github.com/user-attachments/assets/a1511c06-27d2-456c-9c10-129030af121d)
 
 - **Shipping Interval Analysis**: Distribution of orders shipped within a week, within a month, and after 30 days.
 
-![unnamed-7](https://github.com/user-attachments/assets/0213dee4-2bcc-480b-a631-0c53fd7c5df8)
+  ![unnamed-7](https://github.com/user-attachments/assets/0213dee4-2bcc-480b-a631-0c53fd7c5df8)
 
 - **Sales Region Analysis**: Total transactions by different sales regions.
+  ![unnamed-9](https://github.com/user-attachments/assets/264f8ecc-ab93-411b-8e1d-0b98bc681373)
+
 - **Sales Channel Analysis**: Comparison of online and offline transactions.
 
-![unnamed-6](https://github.com/user-attachments/assets/34c926c7-f731-4877-a66f-92dd158d8eea)
+  ![unnamed-6](https://github.com/user-attachments/assets/34c926c7-f731-4877-a66f-92dd158d8eea)
 
 - **Item Type Analysis**: Total transactions by various item types sold over time.
 
-![unnamed-5](https://github.com/user-attachments/assets/2777871e-79ff-400b-a18e-b02c1ff0557d)
+  ![unnamed-5](https://github.com/user-attachments/assets/2777871e-79ff-400b-a18e-b02c1ff0557d)
 
 - **Filters**: Country, year, and quarter filters to interact with and analyze specific subsets of the data.
   
-![unnamed](https://github.com/user-attachments/assets/94e79874-8a07-4eb8-a0ed-3cd21b8820b4) ![unnamed-2](https://github.com/user-attachments/assets/d93b5399-6858-4f2c-be0a-a9e3eeaf468b) ![unnamed-3](https://github.com/user-attachments/assets/d61542e2-c946-4603-8648-f26049572e07) 
+  ![unnamed](https://github.com/user-attachments/assets/94e79874-8a07-4eb8-a0ed-3cd21b8820b4) ![unnamed-2](https://github.com/user-attachments/assets/d93b5399-6858-4f2c-be0a-a9e3eeaf468b) ![unnamed-3](https://github.com/user-attachments/assets/d61542e2-c946-4603-8648-f26049572e07) 
 
 
   
