@@ -52,13 +52,10 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
   
   ![unnamed](https://github.com/user-attachments/assets/94e79874-8a07-4eb8-a0ed-3cd21b8820b4) ![unnamed-2](https://github.com/user-attachments/assets/d93b5399-6858-4f2c-be0a-a9e3eeaf468b) ![unnamed-3](https://github.com/user-attachments/assets/d61542e2-c946-4603-8648-f26049572e07) 
 
+## Dashboard Overview
 
   
 
-## Interactive Features
-- **Option Buttons**: Allow users to select different metrics (transaction, order, COGS, revenue, profit) to display on the charts, excluding shipping interval charts.
-- **Dynamic Interaction**: Option buttons interact with sales regions, item types, months, and quarters, providing a dynamic and customizable analysis experience.
-- **Sales Categorization**: Categorized sales into online and offline channels, integrated with option buttons for interactive filtering.
 
 ## Technical Skills
 - **Data Analysis**: Power Query for data connection and transformation.
