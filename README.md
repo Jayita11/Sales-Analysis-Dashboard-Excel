@@ -30,6 +30,8 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 - **Sales Channel Analysis**: Comparison of online and offline transactions.
 - **Item Type Analysis**: Total transactions by various item types sold over time.
 - **Filters**: Country, year, and quarter filters to interact with and analyze specific subsets of the data.
+- ![unnamed](https://github.com/user-attachments/assets/94e79874-8a07-4eb8-a0ed-3cd21b8820b4)
+
   
 
 ## Interactive Features
