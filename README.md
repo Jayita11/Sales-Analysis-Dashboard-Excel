@@ -33,6 +33,9 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 - **Shipping Interval Analysis**: Distribution of orders shipped within a week, within a month, and after 30 days.
 - **Sales Region Analysis**: Total transactions by different sales regions.
 - **Sales Channel Analysis**: Comparison of online and offline transactions.
+
+![unnamed-6](https://github.com/user-attachments/assets/34c926c7-f731-4877-a66f-92dd158d8eea)
+
 - **Item Type Analysis**: Total transactions by various item types sold over time.
 
 ![unnamed-5](https://github.com/user-attachments/assets/2777871e-79ff-400b-a18e-b02c1ff0557d)
