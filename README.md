@@ -54,6 +54,11 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 
 ## Dashboard Overview
 
+ ![unnamed-11](https://github.com/user-attachments/assets/bfc47eea-6e3f-449e-8e7b-6bac2d626711)
+ ![Animation1](https://github.com/user-attachments/assets/a5204c00-f2ba-4a0c-8f90-70d7daa53700)
+ ![Animation2](https://github.com/user-attachments/assets/e15a40d5-df7d-4956-a3fa-a499c3fe7f5b)
+
+
   
 
 
