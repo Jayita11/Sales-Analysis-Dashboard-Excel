@@ -7,9 +7,20 @@ This project involves creating a comprehensive sales dashboard using an 8-year h
 The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales data. Key columns include order dates, shipping dates, transaction details, revenue, COGS (Cost of Goods Sold), and profit. The data is stored in a single table, and Power Query is used for data connections and calculations before transferring to Power Pivot for efficient handling and analysis.
 
 ## Key Steps in the Project
-1. **Data Connection and Transformation**: Used Power Query to connect to the dataset and perform necessary calculations.
-2. **Data Transfer to Power Pivot**: Transferred the processed data to Power Pivot to handle large volumes of data and ensure scalability.
-3. **Dashboard Creation**: Designed an interactive dashboard in Excel, incorporating various charts, KPIs, and filters for comprehensive analysis.
+### Data Extraction and Transformation
+- **Power Query**: Utilized Power Query to extract and transform the data from raw, unstructured formats into a structured, tabular format.
+- **Custom and Conditional Fields**: Created custom and conditional fields within Power Query to enhance data quality and prepare it for analysis.
+
+### Data Compilation and Analysis
+- **Power Pivot**: Transferred the data to Power Pivot for further analysis and to store the data for future exploration, especially if the number of rows increases into the millions.
+- **Excel Functions**: Implemented various Excel functions, including OFFSET and COUNTA, to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions, and by item types sold over time.
+- **Pivot Tables**: Generated pivot tables to compile and analyze key financial data.
+
+### Dashboard Development
+- **Interactive Dashboard**: Designed and implemented an interactive dashboard in Excel to visualize key metrics and trends.
+- **Key Performance Indicators (KPIs)**: Incorporated KPIs to provide quick insights into total transactions, orders, revenue, COGS, and net profit.
+- **Dynamic Views**: Created views to analyze weekly and monthly performance, and identified top expenditure categories.
+- **Option Buttons**: Integrated option buttons to allow users to select different metrics (transaction, order, COGS, revenue, profit) and interact with sales regions, item types, months, and quarters.
 
 ## Dashboard Components
 - **KPIs**: Cards displaying total transactions, orders, revenue, COGS, and net profit.
