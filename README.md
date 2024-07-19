@@ -25,7 +25,6 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 ## Dashboard Components
 - **KPIs**: Easy-to-read cards displaying import KPIs like transactions, orders, revenue, COGS, and profit for rapi decision-making.
 
-  
   ![unnamed-4](https://github.com/user-attachments/assets/2a548aef-da4a-4b2c-8456-f73466d42f53)
 
 
@@ -38,6 +37,7 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
   ![unnamed-7](https://github.com/user-attachments/assets/0213dee4-2bcc-480b-a631-0c53fd7c5df8)
 
 - **Sales Region Analysis**: Total transactions by different sales regions.
+
   ![unnamed-9](https://github.com/user-attachments/assets/264f8ecc-ab93-411b-8e1d-0b98bc681373)
 
 - **Sales Channel Analysis**: Comparison of online and offline transactions.
