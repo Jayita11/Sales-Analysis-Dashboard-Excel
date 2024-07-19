@@ -23,7 +23,12 @@ The dataset contains 1,000,000 rows and 13 columns, capturing 8 years of sales d
 - **Option Buttons**: Integrated option buttons to allow users to select different metrics (transaction, order, COGS, revenue, profit) and interact with sales regions, item types, months, and quarters.
 
 ## Dashboard Components
-- **KPIs**: Cards displaying total transactions, orders, revenue, COGS, and net profit.
+- **KPIs**: Easy-to-read cards displaying import KPIs like transactions, orders, revenue, COGS, and profit for rapi decision-making.
+
+  
+![unnamed-4](https://github.com/user-attachments/assets/2a548aef-da4a-4b2c-8456-f73466d42f53)
+
+
 - **Transaction Analysis**: Monthly and quarterly transaction trends.
 - **Shipping Interval Analysis**: Distribution of orders shipped within a week, within a month, and after 30 days.
 - **Sales Region Analysis**: Total transactions by different sales regions.
