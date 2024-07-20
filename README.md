@@ -1,5 +1,8 @@
 # Sales-Analysis-Dashboard-Excel
 
+**Tags:** `excel`, `spreadsheet`, `pivot-tables`, `power-query`, `sales-analysis`, `interactive-dashboards`, `power-pivot`, `data-analysis-excel`
+
+
 ## Project Overview
 This project involves creating a comprehensive sales dashboard using an 8-year historical dataset. The dashboard provides key insights into the company's sales performance, shipping intervals, and regional sales distribution. The data is handled using Power Query and Power Pivot in Microsoft Excel to manage millions of rows efficiently. The dashboard is designed to help the company make informed decisions about future shipping strategies and overall sales performance.
 
